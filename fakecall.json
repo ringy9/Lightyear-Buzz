@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "fc31003ee6eb3bef",
+            "max_int": "88ddeae008440426",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Lightyear Buzz",
+            "photo": "https://i.postimg.cc/HWJSBDxt/Profile-Buzz-Lightyear.webp",
+            "voice": "https://ringy9.github.io/Lightyear-Buzz/voicecall.mp3",
+            "video": "https://ringy9.github.io/Lightyear-Buzz/video.mp4",
+            "stories": [
+                "https://i.postimg.cc/gkZv6G0f/buzz-lightyear-1655150369637.jpg",
+"https://i.postimg.cc/JzCjNSDt/Buzz-Lightyear-copy-1200x675.webp",
+"https://i.postimg.cc/5tnvM0PF/lightyear-box-office-estimates-opening-weekend-disney-pixar-movie.jpg",
+"https://i.postimg.cc/C12qz2ph/lightyear-onesheet775x970-copy-479x600.png",
+"https://i.postimg.cc/K87BJQBf/lightyear-online-use-b020-303b-pub-pub16-2283.webp",
+"https://i.postimg.cc/xd0H7HP2/lightyearwhychrisevansisvoicingbuzzlightyearandnottimallen36190303lightyearinterviewblogroll-1650480.jpg",
+"https://i.postimg.cc/rsttW9qS/Likghtyear-1200x800.jpg",
+"https://i.postimg.cc/zBvhDrM2/MV5-BOWYz-Mj-Bh-NGYt-ZGEy-Ny00-OThj-LWFm-ZTEt-ZGY1-Yz-Vk-Nz-I3-MTM1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzc1-MTQ5-MTI-V1.webp",
+"https://i.postimg.cc/QVGKqWMv/pixar-restores-same-sex-lightyear-kiss-that-was-cut-by-disney.png",
+"https://i.postimg.cc/HWJSBDxt/Profile-Buzz-Lightyear.webp",
+"https://i.postimg.cc/zD9xQtHY/why-chris-evans-was-cast-to-voice-the-new-buzz-lightyear-in-pixars-lightyear.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/gkZv6G0f/buzz-lightyear-1655150369637.jpg",
+"https://i.postimg.cc/JzCjNSDt/Buzz-Lightyear-copy-1200x675.webp",
+"https://i.postimg.cc/5tnvM0PF/lightyear-box-office-estimates-opening-weekend-disney-pixar-movie.jpg",
+"https://i.postimg.cc/C12qz2ph/lightyear-onesheet775x970-copy-479x600.png",
+"https://i.postimg.cc/K87BJQBf/lightyear-online-use-b020-303b-pub-pub16-2283.webp",
+"https://i.postimg.cc/xd0H7HP2/lightyearwhychrisevansisvoicingbuzzlightyearandnottimallen36190303lightyearinterviewblogroll-1650480.jpg",
+"https://i.postimg.cc/rsttW9qS/Likghtyear-1200x800.jpg",
+"https://i.postimg.cc/zBvhDrM2/MV5-BOWYz-Mj-Bh-NGYt-ZGEy-Ny00-OThj-LWFm-ZTEt-ZGY1-Yz-Vk-Nz-I3-MTM1-Xk-Ey-Xk-Fqc-Gde-QXVy-Mzc1-MTQ5-MTI-V1.webp",
+"https://i.postimg.cc/QVGKqWMv/pixar-restores-same-sex-lightyear-kiss-that-was-cut-by-disney.png",
+"https://i.postimg.cc/HWJSBDxt/Profile-Buzz-Lightyear.webp",
+"https://i.postimg.cc/zD9xQtHY/why-chris-evans-was-cast-to-voice-the-new-buzz-lightyear-in-pixars-lightyear.jpg"
+            ]
+          
+        }
+    ]
+}
